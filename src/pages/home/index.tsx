@@ -18,7 +18,7 @@ interface IDataButton {
 const mainButtonDummy: IDataButton[] = [
   {
     text: 'Launch DTO',
-    link: 'https://ditoswap.com/',
+    link: 'https://dapp.ditoswap.com/',
     isHovered: true,
   },
   {
